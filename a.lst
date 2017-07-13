@@ -1,27 +1,28 @@
-README.md
-a.log
-a.lst
-jwbc.sql
-jwdep.sql
-jwdj.sql
-jwdsj.sql
-jwdtp.sql
-jwerr.sql
-jwfra.sql
-jwinc.sql
-jwjrd.sql
-jwlr.sql
-jwobj.sql
-jwrl.sql
-jwseg.sql
-jwseq.sql
-jwsg1.sql
-jwsg2.sql
-jwsg4.sql
-jwsg5.sql
-jwsyn.sql
-jwt0.sql
-jwt1.sql
-jwv0.sql
-jwv1.sql
-jwv2.sql
+total 208
+-rw-rw-r--  1 jrw  staff    89 Jul 13 15:57 README.md
+-rw-rw-r--  1 jrw  staff   247 Jul 13 15:58 a.log
+-rw-rw-r--  1 jrw  staff     0 Jul 13 16:03 a.lst
+-rw-rw-r--  1 jrw  staff    87 Jul 13 15:57 jwbc.sql
+-rw-rw-r--  1 jrw  staff   118 Jul 13 15:57 jwdep.sql
+-rw-rw-r--  1 jrw  staff   832 Jul 13 15:57 jwdj.sql
+-rw-rw-r--  1 jrw  staff  2658 Jul 13 15:57 jwdsj.sql
+-rw-rw-r--  1 jrw  staff   134 Jul 13 15:57 jwdtp.sql
+-rw-rw-r--  1 jrw  staff   121 Jul 13 15:57 jwerr.sql
+-rw-rw-r--  1 jrw  staff   134 Jul 13 15:57 jwfra.sql
+-rw-rw-r--  1 jrw  staff    88 Jul 13 15:57 jwinc.sql
+-rw-rw-r--  1 jrw  staff   550 Jul 13 15:57 jwjrd.sql
+-rw-rw-r--  1 jrw  staff   353 Jul 13 15:57 jwlr.sql
+-rw-rw-r--  1 jrw  staff   193 Jul 13 15:57 jwobj.sql
+-rw-rw-r--  1 jrw  staff   183 Jul 13 15:57 jwrl.sql
+-rw-rw-r--  1 jrw  staff   284 Jul 13 15:57 jwseg.sql
+-rw-rw-r--  1 jrw  staff   139 Jul 13 15:57 jwseq.sql
+-rw-rw-r--  1 jrw  staff   378 Jul 13 15:57 jwsg1.sql
+-rw-rw-r--  1 jrw  staff   292 Jul 13 15:57 jwsg2.sql
+-rw-rw-r--  1 jrw  staff   402 Jul 13 15:57 jwsg4.sql
+-rw-rw-r--  1 jrw  staff   535 Jul 13 15:57 jwsg5.sql
+-rw-rw-r--  1 jrw  staff   136 Jul 13 15:57 jwsyn.sql
+-rw-rw-r--  1 jrw  staff   270 Jul 13 15:57 jwt0.sql
+-rw-rw-r--  1 jrw  staff   543 Jul 13 15:57 jwt1.sql
+-rw-rw-r--  1 jrw  staff  1190 Jul 13 15:57 jwv0.sql
+-rw-rw-r--  1 jrw  staff  1187 Jul 13 15:57 jwv1.sql
+-rw-rw-r--  1 jrw  staff  1301 Jul 13 15:57 jwv2.sql
