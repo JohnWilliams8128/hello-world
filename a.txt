@@ -1,4 +1,2 @@
-# $Id$
+# $Id: $
 README.md
-/Users/jrw/mbin/GIT
-Thu Jul 13 16:37:22 MDT 2017
