@@ -1,3 +1,2 @@
-# $Id$
+# $Id: a.txt | Thu Jul 13 17:11:17 2017 -0600 | John Williams  $
 README.md
-More stuff
