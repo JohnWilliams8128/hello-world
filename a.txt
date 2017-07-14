@@ -1,8 +1,9 @@
-# RCS: $Id: a.txt | Fri Jul 14 14:38:23 2017 -0600 | John Williams <jrw_email@yahoo.com> Date: Fri Jul 14 14:38:23 2017 -0600 | 31c1258191471b1012d8c2bc71ff9e2508f960b6 $
-# RCS: $Author: John Williams <jrw_email@yahoo.com> Date: Fri Jul 14 14:38:23 2017 -0600 $
-# RCS: $Date: Fri Jul 14 14:38:23 2017 -0600 $
-# RCS: $File: a.txt $
-# RCS: $Source: a.txt $
-# RCS: $Revision: 31c1258191471b1012d8c2bc71ff9e2508f960b6 $
+# RCS: $Id$
+# RCS: $Author$
+# RCS: $Date$
+# RCS: $File$
+# RCS: $Source$
+# RCS: $Revision$
 
 README.md
+x
