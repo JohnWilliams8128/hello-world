@@ -6,4 +6,3 @@
 # RCS: $Revision$
 
 README.md
-Some more stuff again6
