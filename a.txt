@@ -1,9 +1,9 @@
-# $Id$
-# $Author$
-# $Date$
-# $File$
-# $Source$
-# $Revision$
+# RCS: $Id$
+# RCS: $Author$
+# RCS: $Date$
+# RCS: $File$
+# RCS: $Source$
+# RCS: $Revision$
 
 README.md
-Some more stuff again5
+Some more stuff again6
